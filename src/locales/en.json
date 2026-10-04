@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Heroes Vow Three Kingdoms Wiki",
+    "shortName": "Heroes Vow Three Kingdoms",
+    "tagline": "Complete Guides, Characters, Strategy & Tier Lists",
+    "description": "Your ultimate guide to Heroes' Vow: Three Kingdoms! Explore character guides, faction strategies, turn-based combat systems, achievements, and progression tips for the Three Kingdoms sandbox RPG.",
+    "legalNotice": "Non-official fan wiki. Made by players, for players. Not affiliated with Free Wing, NPC Entertainment, or Steam."
   },
   "nav": {
     "races": "Races",
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Heroes Vow Three Kingdoms Wiki - Guides, Characters & Strategy",
+      "description": "Explore Heroes Vow Three Kingdoms Wiki with character guides, strategy tips, faction details, battle systems, and gameplay information for mastering the Three Kingdoms RPG."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Three Kingdoms Sandbox Strategy RPG",
+      "title": "Heroes Vow Three Kingdoms Wiki",
+      "description": "A complete Heroes Vow Three Kingdoms wiki covering characters, strategies, guides, factions, battles, systems, and everything players need to create their own legend in the Three Kingdoms era.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "7K+ User Reviews",
+        "37 Achievements",
+        "0 Active Codes",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Character Tier List",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -51,7 +51,7 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Heroes Vow Three Kingdoms Journey",
       "cards": [
         {
           "number": "1",
@@ -71,7 +71,7 @@
         {
           "number": "4",
           "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "description": "Learn the best methods and locations for extracting resources in Heroes Vow Three Kingdoms."
         }
       ]
     },
@@ -142,9 +142,9 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Heroes Vow Three Kingdoms?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
+        "Heroes Vow Three Kingdoms is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
         "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
       ],
       "stats": [
@@ -180,14 +180,14 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
+      "title": "Explore Heroes Vow Three Kingdoms Wiki",
       "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
+          "name": "Heroes Vow Three Kingdoms Working Codes",
           "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
+          "href": "/codes/heroes-vow-three-kingdoms-codes",
           "displayType": "code-box",
           "highlights": [
             {
@@ -208,7 +208,7 @@
           "order": 2,
           "name": "Beginner Guide: How to Start & Serve Customers",
           "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -229,7 +229,7 @@
           "order": 3,
           "name": "Seafood & Fish Tier List",
           "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "href": "/seafood/heroes-vow-three-kingdoms-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -254,7 +254,7 @@
           "order": 4,
           "name": "Best Upgrades Progression",
           "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "href": "/upgrades/heroes-vow-three-kingdoms-best-upgrades",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -275,7 +275,7 @@
           "order": 5,
           "name": "How to Get Cash Fast",
           "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "href": "/guide/heroes-vow-three-kingdoms-how-to-get-cash-fast",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -296,7 +296,7 @@
           "order": 6,
           "name": "Plot Expansion & Stand Customization",
           "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "href": "/upgrades/heroes-vow-three-kingdoms-how-to-upgrade-plot",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -317,11 +317,11 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Heroes Vow Three Kingdoms.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Heroes Vow Three Kingdoms?",
+          "answer": "Heroes Vow Three Kingdoms is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
         },
         {
           "question": "Which race should beginners pick?",
@@ -342,20 +342,20 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Heroes Vow Three Kingdoms?",
+      "description": "From your first steps in the Three Kingdoms to late-game battles, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | Heroes Vow Three Kingdoms Wiki",
+      "description": "Complete boss guides for Heroes Vow Three Kingdoms — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in Heroes Vow Three Kingdoms 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
+    "body": "Bosses in Heroes Vow Three Kingdoms serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -379,19 +379,19 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Heroes Vow Three Kingdoms Wiki",
+    "about": "Heroes Vow Three Kingdoms Wiki is an independent fan-built guide hub covering characters, factions, strategy, battles, achievements, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Heroes Vow Three Kingdoms Wiki. Not affiliated with Free Wing, NPC Entertainment, or Steam.",
+    "description": "Three Kingdoms sandbox strategy RPG with turn-based combat, faction systems, and deep character progression.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Steam Community",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Faction Guides",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
