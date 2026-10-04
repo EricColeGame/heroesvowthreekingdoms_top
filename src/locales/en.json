@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the opening loop of Heroes Vow Three Kingdoms: choose a faction, push the campaign, and build one dependable carry before you spend rare resources."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Raise your generals and commander rank efficiently with the campaign stages, daily quests, and stamina habits that return the most experience."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Resource Farming",
+          "description": "Keep gold, stamina, and upgrade materials flowing with daily routines, guild help, and the modes that pay out the best rewards per run."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Heroes Vow Three Kingdoms."
+          "title": "Codes & Rewards",
+          "description": "Find working Heroes Vow Three Kingdoms codes, learn how to redeem them, and fix common redemption errors before the rewards expire."
         }
       ]
     },
@@ -66,237 +66,323 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Tier List",
+        "Faction Guide",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first week, from faction choice to resource habits.",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Working Heroes Vow Three Kingdoms codes with rewards and redemption steps.",
+          "href": "/codes/heroes-vow-three-kingdoms-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier List",
+          "description": "Which generals carry, which fall off, and where to invest your best gear.",
+          "href": "/combat/heroes-vow-three-kingdoms-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Faction Guide",
+          "description": "Wei, Shu, Wu, and Qun bonds, shops, and playstyles compared side by side.",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions"
+        },
+        {
+          "badge": "Popular",
+          "title": "Characters Guide",
+          "description": "Roster roles, faction leaders, and team-building advice for every formation.",
+          "href": "/characters/heroes-vow-three-kingdoms-characters"
+        },
+        {
+          "badge": "New",
+          "title": "Weapons & Gear",
+          "description": "Weapon rarity, refinement, and the upgrade priority that raises your damage curve.",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons"
+        },
+        {
+          "badge": "New",
+          "title": "Combat Guide",
+          "description": "Turn order, troop counters, and formation tactics for PvE and PvP battles.",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Achievements",
+          "description": "A completion roadmap for all 37 achievements and the rewards behind them.",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Recruitment Guide",
+          "description": "Banner timing, currency priorities, and free-to-play summoning plans.",
+          "href": "/progression/heroes-vow-three-kingdoms-recruitment"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Heroes Vow Three Kingdoms?",
       "paragraphs": [
-        "Heroes Vow Three Kingdoms is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Heroes Vow Three Kingdoms is a Three Kingdoms-era sandbox strategy RPG from developer Free Wing. You step into the late Han dynasty as a ruler, general, or free-roaming character, then build your own story through recruitment, diplomacy, trade, marriage, and turn-based battles across a living map of ancient China.",
+        "Battles are decided before they begin: faction synergy, formations, troop counters, and gear matter as much as raw power, while hero bonds and skill investment carry a roster through the campaign, guild content, and PvP. This wiki gathers the guides, tier lists, and data tables that keep your account moving in Heroes Vow Three Kingdoms."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Free Wing"
+        },
+        {
+          "label": "Publisher",
+          "value": "Free Wing / NPC Entertainment"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Sandbox Strategy RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Factions",
+          "value": "Wei, Shu, Wu, Qun"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Achievements",
+          "value": "37"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Steam Reviews",
+          "value": "7K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Heroes Vow Three Kingdoms Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse Heroes Vow Three Kingdoms guides for beginners, builds, characters, combat, factions, gear, updates, and achievements, all in one place.",
       "modules": [
         {
           "order": 1,
-          "name": "Heroes Vow Three Kingdoms Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/heroes-vow-three-kingdoms-codes",
-          "displayType": "code-box",
+          "name": "Heroes Vow Three Kingdoms Beginner Guide",
+          "description": "A beginner-friendly walkthrough of the opening hours: character creation, faction choice, early progression, resource habits, and the mistakes that stall new commanders.",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Push the main campaign until progress slows to unlock the daily modes."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Build one reliable carry and funnel your best gear into that general."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Hold back premium currency for limited banners instead of spending on impulse."
+            },
+            {
+              "label": "4",
+              "detail": "Join an active guild so help rewards and guild bosses compound daily."
+            },
+            {
+              "label": "5",
+              "detail": "Finish the daily checklist every day for steady income over one-time bursts."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Heroes Vow Three Kingdoms Builds",
+          "description": "Character build planning for every role, covering stat priorities, gear sets, skill order, and formation slots for warriors, rulers, and support officers.",
+          "href": "/progression/heroes-vow-three-kingdoms-character-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Duelist",
+              "detail": "Front-line damage dealers that stack crit and attack to delete key targets."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Vanguard",
+              "detail": "Tanks built around defense and health to absorb the opening enemy rotation."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Support",
+              "detail": "Healers and buffers that keep a squad alive through long boss fights."
+            },
+            {
+              "label": "Tactician",
+              "detail": "Control and debuff specialists who set up kills for your main carry."
+            },
+            {
+              "label": "Marksman",
+              "detail": "Back-row ranged damage that scales with weapon rarity and positioning."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/heroes-vow-three-kingdoms-tier-list",
+          "name": "Heroes Vow Three Kingdoms Characters Guide",
+          "description": "A roster guide to the game's generals, their factions, roles, and investment value, with a tier framework for deciding who deserves your resources.",
+          "href": "/characters/heroes-vow-three-kingdoms-characters",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Best in role and worth building first; feed them your best gear."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Excellent once your main carry is stable and the team fits."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Strong early but falls off without heavy investment."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Niche picks that are outclassed by easier-to-build options."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/heroes-vow-three-kingdoms-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Heroes Vow Three Kingdoms Combat Guide",
+          "description": "Turn-based battle tactics covering turn order, troop counters, formations, faction synergy, and the PvP habits that turn close fights into wins.",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Scout the enemy lineup before you commit your formation."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Place tanks in front, damage in the middle, and support in the back."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Match troop counters to the enemy's strongest unit."
+            },
+            {
+              "label": "4",
+              "detail": "Save ultimates for the moment that breaks the enemy frontline."
+            },
+            {
+              "label": "5",
+              "detail": "Rebuild your PvE setup for PvP instead of forcing one formation."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/heroes-vow-three-kingdoms-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Heroes Vow Three Kingdoms Faction Guide",
+          "description": "Compare the Wei, Shu, Wu, and Qun factions, their bond bonuses, shops, and playstyles, and learn how to commit to a roster that actually stacks its buffs.",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Wei",
+              "detail": "Cao Cao's disciplined core, built on control and efficient burst damage."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Shu",
+              "detail": "Liu Bei's balanced roster, strong sustain and reliable frontline heroes."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Wu",
+              "detail": "Sun Quan's agile faction, leaning on speed, burn, and ranged pressure."
+            },
+            {
+              "label": "Qun",
+              "detail": "Unaligned warlords with flexible picks that slot into any formation."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/heroes-vow-three-kingdoms-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Heroes Vow Three Kingdoms Items Guide",
+          "description": "A reference for weapons, gear sets, refinement, and upgrade materials, plus the farming routes that keep your best generals equipped.",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Weapons",
+              "detail": "The core damage slot; rarity sets the ceiling and passives change the kit."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Gear Sets",
+              "detail": "Set bonuses that amplify a general's role and faction synergy."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Refine",
+              "detail": "Duplicate gear that raises stats and unlocks stronger passive effects."
+            },
+            {
+              "label": "Farming",
+              "detail": "Daily stages and events that supply the upgrade materials you need."
+            },
+            {
+              "label": "Priority",
+              "detail": "Upgrade your main carry's weapon before spreading resources thin."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Heroes Vow Three Kingdoms Updates",
+          "description": "Track balance changes, new hero releases, and community reaction so your builds and tier picks stay current after every patch.",
+          "href": "/guide/heroes-vow-three-kingdoms-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Balance updates that shift which roles and factions perform best."
+            },
+            {
+              "label": "Releases",
+              "detail": "Fresh generals that can redefine the meta and banner value."
+            },
+            {
+              "label": "Meta",
+              "detail": "Community consensus on what is rising and what is falling."
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time modes and rewards worth planning your resources around."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Heroes Vow Three Kingdoms Achievements Guide",
+          "description": "A completion roadmap for the game's 37 achievements, covering categories, daily routines, and the milestones that fund your roster along the way.",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Campaign milestones that unlock modes and reward steady progression."
+            },
+            {
+              "label": "Roster",
+              "detail": "Collection and star-up goals that push you to build wider teams."
+            },
+            {
+              "label": "Combat",
+              "detail": "Battle challenges that test formations, counters, and boss clears."
+            },
+            {
+              "label": "Daily",
+              "detail": "Repeatable tasks that quietly fund upgrades over the long run."
             }
           ]
         }
@@ -308,23 +394,27 @@
       "items": [
         {
           "question": "What is Heroes Vow Three Kingdoms?",
-          "answer": "Heroes Vow Three Kingdoms is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Heroes Vow Three Kingdoms is a Three Kingdoms-era sandbox strategy RPG from developer Free Wing. You play as a ruler, general, or free-roaming character and shape your own story through kingdom building, recruitment, diplomacy, trade, marriage, and turn-based battles."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which faction should beginners pick in Heroes Vow Three Kingdoms?",
+          "answer": "There is no single best faction in Heroes Vow Three Kingdoms. Wei rewards control and burst damage, Shu leans on sustain and frontline heroes, Wu favors speed and ranged pressure, and Qun offers flexible picks. Choose the archetype that matches how you like to fight, then build a squad that shares its bond bonuses."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I get free rewards in Heroes Vow Three Kingdoms?",
+          "answer": "Heroes Vow Three Kingdoms codes are the fastest source of free currency, summon scrolls, and upgrade materials. Redeem them in-game before they expire, and check the codes page regularly because most gift codes are tied to launch milestones, holidays, and livestreams."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Heroes Vow Three Kingdoms have a tier list?",
+          "answer": "Yes. The Heroes Vow Three Kingdoms tier list ranks generals from S to C by role fit, scaling, investment efficiency, and faction synergy. Treat it as a snapshot, since balance patches and new releases shift the meta over time."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms is Heroes Vow Three Kingdoms on?",
+          "answer": "Heroes Vow Three Kingdoms is available on PC through Steam, where it also ships with 37 achievements and receives regular balance updates."
+        },
+        {
+          "question": "Where can I find Heroes Vow Three Kingdoms guides?",
+          "answer": "This Heroes Vow Three Kingdoms wiki collects beginner guides, character builds, combat tactics, faction breakdowns, gear references, and achievement roadmaps in one place, so you can move from your first campaign stage to late-game PvP without leaving the site."
         }
       ]
     },
