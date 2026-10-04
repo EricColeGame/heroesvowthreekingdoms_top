@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "progression": "Progression",
+    "codes": "Codes"
   },
   "home": {
     "meta": {
@@ -425,7 +432,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Beginner Guides",
+    "overviewDescription": "Start strong with Heroes Vow: Three Kingdoms beginner guides covering the opening hours, early progression, and the mistakes worth avoiding."
+  },
+  "characters": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Characters",
+    "overviewDescription": "Browse Heroes Vow: Three Kingdoms character guides for Guan Yu, Lu Bu, Zhao Yun, and the wider roster, with roles, factions, and team fit."
+  },
+  "combat": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Combat & Teams",
+    "overviewDescription": "Learn the Heroes Vow: Three Kingdoms battle system, best teams, units, and tier list rankings for turn-based squad combat."
+  },
+  "mechanics": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Mechanics",
+    "overviewDescription": "Understand Heroes Vow: Three Kingdoms mechanics including factions, relationships, romance, and the sandbox strategy layer."
+  },
+  "controls": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Controls",
+    "overviewDescription": "Full Heroes Vow: Three Kingdoms controls for PC and keyboard, plus settings guidance to tune your setup."
+  },
+  "progression": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Progression",
+    "overviewDescription": "Heroes Vow: Three Kingdoms progression guides covering leveling, skills, weapons, recruitment, achievements, and character builds."
+  },
+  "codes": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Codes",
+    "overviewDescription": "All Heroes Vow: Three Kingdoms codes and how to redeem them, kept current for rewards and freebies."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -456,9 +490,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Faction Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Combat Guides",
+    "buildGuide": "Progression Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
