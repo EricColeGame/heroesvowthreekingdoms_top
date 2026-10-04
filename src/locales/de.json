@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Heroes Vow Three Kingdoms Wiki",
+    "shortName": "Heroes Vow Three Kingdoms",
+    "tagline": "Komplette Guides, Charaktere, Strategie & Tier-Listen",
+    "description": "Dein ultimativer Guide zu Heroes' Vow: Three Kingdoms! Entdecke Charakter-Guides, Fraktionsstrategien, rundenbasierte Kampfsysteme, Erfolge und Progressionstipps für das Sandbox-RPG der Three Kingdoms.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler. Nicht mit Free Wing, NPC Entertainment oder Steam verbunden."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "guide": "Guide",
+    "characters": "Charaktere",
+    "combat": "Kampf",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "progression": "Fortschritt",
+    "codes": "Codes"
+  },
+  "home": {
+    "meta": {
+      "title": "Heroes Vow Three Kingdoms Wiki - Guides, Charaktere & Strategie",
+      "description": "Erkunde das Heroes Vow Three Kingdoms Wiki mit Charakter-Guides, Strategietipps, Fraktionsdetails, Kampfsystemen und Gameplay-Infos, um das Three Kingdoms RPG zu meistern."
+    },
+    "hero": {
+      "eyebrow": "Three Kingdoms Sandbox-Strategie-RPG",
+      "title": "Heroes Vow Three Kingdoms Wiki",
+      "description": "Ein komplettes Heroes Vow Three Kingdoms Wiki zu Charakteren, Strategien, Guides, Fraktionen, Kämpfen, Systemen und allem, was Spieler brauchen, um im Zeitalter der Three Kingdoms ihre eigene Legende zu erschaffen.",
+      "stats": [
+        "7K+ Nutzerbewertungen",
+        "37 Erfolge",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Charakter-Tier-Liste",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Heroes Vow Three Kingdoms Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne die Einstiegsschleife von Heroes Vow Three Kingdoms kennen: Wähle eine Fraktion, treibe die Kampagne voran und baue einen zuverlässigen Carry auf, bevor du seltene Ressourcen ausgibst."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Steigere deine Generäle und den Kommandantenrang effizient mit den Kampagnen-Stufen, täglichen Quests und Ausdauer-Gewohnheiten, die die meiste Erfahrung bringen."
+        },
+        {
+          "number": "3",
+          "title": "Ressourcen-Farming",
+          "description": "Halte Gold, Ausdauer und Aufwertungsmaterialien mit täglichen Routinen, Gildenhilfe und den Modi fließen, die pro Durchlauf die besten Belohnungen bieten."
+        },
+        {
+          "number": "4",
+          "title": "Codes & Belohnungen",
+          "description": "Finde funktionierende Heroes Vow Three Kingdoms Codes, lerne ihre Einlösung und behebe häufige Fehler, bevor die Belohnungen ablaufen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Tier-Liste",
+        "Fraktions-Guide",
+        "Aktive Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Alles, was du in deiner ersten Woche brauchst, von der Fraktionswahl bis zu Ressourcengewohnheiten.",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Funktionierende Heroes Vow Three Kingdoms Codes mit Belohnungen und Einlöseschritten.",
+          "href": "/codes/heroes-vow-three-kingdoms-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Tier-Liste",
+          "description": "Welche Generäle tragen, welche abfallen und wo du deine beste Ausrüstung investierst.",
+          "href": "/combat/heroes-vow-three-kingdoms-tier-list"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Fraktions-Guide",
+          "description": "Wei, Shu, Wu und Qun mit Bindungen, Shops und Spielstilen im direkten Vergleich.",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Charakter-Guide",
+          "description": "Kaderrollen, Fraktionsanführer und Teambau-Tipps für jede Formation.",
+          "href": "/characters/heroes-vow-three-kingdoms-characters"
+        },
+        {
+          "badge": "Neu",
+          "title": "Waffen & Ausrüstung",
+          "description": "Waffenrarität, Verfeinerung und die Upgrade-Priorität, die deine Schadenskurve hebt.",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kampf-Guide",
+          "description": "Zugreihenfolge, Truppenkonter und Formationstaktiken für PvE- und PvP-Kämpfe.",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Erfolge",
+          "description": "Eine Komplettierungs-Roadmap für alle 37 Erfolge und die Belohnungen dahinter.",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Rekrutierungs-Guide",
+          "description": "Banner-Timing, Währungsprioritäten und Beschwörungspläne für Free-to-Play.",
+          "href": "/progression/heroes-vow-three-kingdoms-recruitment"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Heroes Vow Three Kingdoms?",
+      "paragraphs": [
+        "Heroes Vow Three Kingdoms ist ein Sandbox-Strategie-RPG aus der Three-Kingdoms-Ära vom Entwickler Free Wing. Du schlüpfst in der späten Han-Dynastie in die Rolle eines Herrschers, Generals oder freien Reisenden und erschaffst deine eigene Geschichte durch Rekrutierung, Diplomatie, Handel, Heirat und rundenbasierte Kämpfe auf einer lebendigen Karte des antiken China.",
+        "Kämpfe werden entschieden, bevor sie beginnen: Fraktionssynergie, Formationen, Truppenkonter und Ausrüstung zählen genauso viel wie rohe Stärke, während Heldenbindungen und Skill-Investitionen einen Kader durch Kampagne, Gildeninhalte und PvP tragen. Dieses Wiki sammelt die Guides, Tier-Listen und Datentabellen, die deinen Account in Heroes Vow Three Kingdoms voranbringen."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Free Wing"
+        },
+        {
+          "label": "Publisher",
+          "value": "Free Wing / NPC Entertainment"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Genre",
+          "value": "Sandbox-Strategie-RPG"
+        },
+        {
+          "label": "Fraktionen",
+          "value": "Wei, Shu, Wu, Qun"
+        },
+        {
+          "label": "Erfolge",
+          "value": "37"
+        },
+        {
+          "label": "Steam-Reviews",
+          "value": "7K+"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Erkunde das Heroes Vow Three Kingdoms Wiki",
+      "description": "Durchsuche Heroes Vow Three Kingdoms Guides für Anfänger, Builds, Charaktere, Kampf, Fraktionen, Ausrüstung, Updates und Erfolge – alles an einem Ort.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Heroes Vow Three Kingdoms Anfänger-Guide",
+          "description": "Ein anfängerfreundlicher Walkthrough der ersten Stunden: Charaktererstellung, Fraktionswahl, früher Fortschritt, Ressourcengewohnheiten und die Fehler, die neue Kommandanten ausbremsen.",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Treibe die Hauptkampagne voran, bis der Fortschritt stockt, um die täglichen Modi freizuschalten."
+            },
+            {
+              "label": "2",
+              "detail": "Baue einen zuverlässigen Carry auf und leite deine beste Ausrüstung in diesen General."
+            },
+            {
+              "label": "3",
+              "detail": "Spare Premium-Währung für limitierte Banner, statt sie impulsiv auszugeben."
+            },
+            {
+              "label": "4",
+              "detail": "Tritt einer aktiven Gilde bei, damit Hilfsbelohnungen und Gilden-Bosse täglich wachsen."
+            },
+            {
+              "label": "5",
+              "detail": "Erledige die tägliche Checkliste jeden Tag für stetige Einnahmen statt einmaliger Schübe."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Heroes Vow Three Kingdoms Builds",
+          "description": "Charakter-Build-Planung für jede Rolle mit Statusprioritäten, Ausrüstungssets, Skill-Reihenfolge und Formationsplätzen für Krieger, Herrscher und Unterstützer.",
+          "href": "/progression/heroes-vow-three-kingdoms-character-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Duellant",
+              "detail": "Frontkämpfer, die Krit und Angriff stapeln, um Schlüsselziele zu eliminieren."
+            },
+            {
+              "label": "Vorhut",
+              "detail": "Tanks, die auf Verteidigung und Leben setzen, um die Eröffnungsrotation des Gegners zu absorbieren."
+            },
+            {
+              "label": "Unterstützer",
+              "detail": "Heiler und Buffer, die eine Truppe durch lange Bosskämpfe am Leben halten."
+            },
+            {
+              "label": "Taktiker",
+              "detail": "Kontroll- und Debuff-Spezialisten, die Kills für deinen Haupt-Carry vorbereiten."
+            },
+            {
+              "label": "Schütze",
+              "detail": "Fernkampfschaden aus der hinteren Reihe, der mit Waffenrarität und Positionierung skaliert."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Heroes Vow Three Kingdoms Charakter-Guide",
+          "description": "Ein Kader-Guide zu den Generälen des Spiels, ihren Fraktionen, Rollen und ihrem Investitionswert, mit einem Tier-Rahmen zur Entscheidung, wer deine Ressourcen verdient.",
+          "href": "/characters/heroes-vow-three-kingdoms-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Beste in ihrer Rolle und zuerst auszubauen; gib ihnen deine beste Ausrüstung."
+            },
+            {
+              "label": "A",
+              "detail": "Ausgezeichnet, sobald dein Haupt-Carry stabil ist und das Team passt."
+            },
+            {
+              "label": "B",
+              "detail": "Anfangs stark, fällt aber ohne starke Investition ab."
+            },
+            {
+              "label": "C",
+              "detail": "Nischen-Picks, die von leichter aufbaubaren Optionen überholt werden."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Heroes Vow Three Kingdoms Kampf-Guide",
+          "description": "Rundenbasierte Kampftaktiken zu Zugreihenfolge, Truppenkontern, Formationen, Fraktionssynergie und den PvP-Gewohnheiten, die knappe Kämpfe in Siege verwandeln.",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Spähe die gegnerische Aufstellung aus, bevor du deine Formation festlegst."
+            },
+            {
+              "label": "2",
+              "detail": "Stelle Tanks nach vorn, Schaden in die Mitte und Unterstützung nach hinten."
+            },
+            {
+              "label": "3",
+              "detail": "Passe Truppenkonter auf die stärkste Einheit des Gegners ab."
+            },
+            {
+              "label": "4",
+              "detail": "Spare Ultimates für den Moment, der die gegnerische Front bricht."
+            },
+            {
+              "label": "5",
+              "detail": "Baue dein PvE-Setup für PvP um, statt eine Formation zu erzwingen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Heroes Vow Three Kingdoms Fraktions-Guide",
+          "description": "Vergleiche die Fraktionen Wei, Shu, Wu und Qun, ihre Bindungsboni, Shops und Spielstile, und lerne, wie du dich auf einen Kader festlegst, der seine Buffs wirklich stapelt.",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Wei",
+              "detail": "Caos disziplinierter Kern, auf Kontrolle und effizienten Burst-Schaden ausgelegt."
+            },
+            {
+              "label": "Shu",
+              "detail": "Liu Beis ausgewogener Kader mit starker Nachhaltigkeit und zuverlässiger Front."
+            },
+            {
+              "label": "Wu",
+              "detail": "Sun Quans wendige Fraktion, die auf Tempo, Brand und Fernkampfdruck setzt."
+            },
+            {
+              "label": "Qun",
+              "detail": "Ungebundene Kriegsherren mit flexiblen Picks, die in jede Formation passen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Heroes Vow Three Kingdoms Items-Guide",
+          "description": "Eine Referenz zu Waffen, Ausrüstungssets, Verfeinerung und Aufwertungsmaterialien sowie den Farmrouten, die deine besten Generäle ausgerüstet halten.",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Waffen",
+              "detail": "Der zentrale Schadensplatz; Rarität setzt die Obergrenze und Passivs verändern das Kit."
+            },
+            {
+              "label": "Ausrüstungssets",
+              "detail": "Setboni, die die Rolle eines Generals und die Fraktionssynergie verstärken."
+            },
+            {
+              "label": "Verfeinerung",
+              "detail": "Duplikat-Ausrüstung, die Werte erhöht und stärkere Passiveffekte freischaltet."
+            },
+            {
+              "label": "Farming",
+              "detail": "Tägliche Stufen und Events, die die benötigten Aufwertungsmaterialien liefern."
+            },
+            {
+              "label": "Priorität",
+              "detail": "Verbessere die Waffe deines Haupt-Carrys, bevor du Ressourcen streust."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Heroes Vow Three Kingdoms Updates",
+          "description": "Verfolge Balance-Änderungen, neue Heldenveröffentlichungen und Community-Reaktionen, damit deine Builds und Tier-Picks nach jedem Patch aktuell bleiben.",
+          "href": "/guide/heroes-vow-three-kingdoms-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Balance-Updates, die verschieben, welche Rollen und Fraktionen am besten abschneiden."
+            },
+            {
+              "label": "Releases",
+              "detail": "Neue Generäle, die Meta und Bannerwert neu definieren können."
+            },
+            {
+              "label": "Meta",
+              "detail": "Community-Konsens darüber, was steigt und was fällt."
+            },
+            {
+              "label": "Events",
+              "detail": "Zeitlich begrenzte Modi und Belohnungen, um die herum sich Ressourcenplanung lohnt."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Heroes Vow Three Kingdoms Erfolge-Guide",
+          "description": "Eine Komplettierungs-Roadmap für die 37 Erfolge des Spiels, mit Kategorien, täglichen Routinen und den Meilensteinen, die deinen Kader unterwegs finanzieren.",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Kampagnen-Meilensteine, die Modi freischalten und stetigen Fortschritt belohnen."
+            },
+            {
+              "label": "Kader",
+              "detail": "Sammlungs- und Sternenaufstiegsziele, die dich zu breiteren Teams drängen."
+            },
+            {
+              "label": "Kampf",
+              "detail": "Kampfherausforderungen, die Formationen, Konter und Boss-Kills testen."
+            },
+            {
+              "label": "Täglich",
+              "detail": "Wiederholbare Aufgaben, die Upgrades langfristig still finanzieren."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Heroes Vow Three Kingdoms.",
+      "items": [
+        {
+          "question": "Was ist Heroes Vow Three Kingdoms?",
+          "answer": "Heroes Vow Three Kingdoms ist ein Sandbox-Strategie-RPG aus der Three-Kingdoms-Ära vom Entwickler Free Wing. Du spielst als Herrscher, General oder freier Reisender und formst deine eigene Geschichte durch Königreichsaufbau, Rekrutierung, Diplomatie, Handel, Heirat und rundenbasierte Kämpfe."
+        },
+        {
+          "question": "Welche Fraktion sollten Anfänger in Heroes Vow Three Kingdoms wählen?",
+          "answer": "Es gibt keine einzige beste Fraktion in Heroes Vow Three Kingdoms. Wei belohnt Kontrolle und Burst-Schaden, Shu setzt auf Nachhaltigkeit und Frontkämpfer, Wu bevorzugt Tempo und Fernkampfdruck, und Qun bietet flexible Picks. Wähle den Archetyp, der zu deiner Kampfweise passt, und baue dann eine Truppe, die ihre Bindungsboni teilt."
+        },
+        {
+          "question": "Wie bekomme ich kostenlose Belohnungen in Heroes Vow Three Kingdoms?",
+          "answer": "Heroes Vow Three Kingdoms Codes sind die schnellste Quelle für kostenlose Währung, Beschwörungsrollen und Aufwertungsmaterialien. Löse sie im Spiel ein, bevor sie ablaufen, und prüfe die Codes-Seite regelmäßig, denn die meisten Geschenkcodes sind an Launch-Meilensteine, Feiertage und Livestreams gebunden."
+        },
+        {
+          "question": "Hat Heroes Vow Three Kingdoms eine Tier-Liste?",
+          "answer": "Ja. Die Heroes Vow Three Kingdoms Tier-Liste ordnet Generäle von S bis C nach Rollenpassung, Skalierung, Investitionseffizienz und Fraktionssynergie ein. Behandle sie als Momentaufnahme, da Balance-Patches und neue Releases die Meta mit der Zeit verschieben."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Heroes Vow Three Kingdoms verfügbar?",
+          "answer": "Heroes Vow Three Kingdoms ist auf PC über Steam verfügbar, wo es außerdem mit 37 Erfolgen erscheint und regelmäßige Balance-Updates erhält."
+        },
+        {
+          "question": "Wo finde ich Heroes Vow Three Kingdoms Guides?",
+          "answer": "Dieses Heroes Vow Three Kingdoms Wiki bündelt Anfänger-Guides, Charakter-Builds, Kampftaktiken, Fraktionsanalysen, Ausrüstungsreferenzen und Erfolgs-Roadmaps an einem Ort, sodass du von deiner ersten Kampagnenstufe bis zum Late-Game-PvP kommst, ohne die Seite zu verlassen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Heroes Vow Three Kingdoms zu meistern?",
+      "description": "Von deinen ersten Schritten in den Three Kingdoms bis zu späten Kämpfen deckt dich unser Community-Wiki mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Den Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Anfänger-Guides",
+    "overviewDescription": "Starte stark mit Heroes Vow: Three Kingdoms Anfänger-Guides zu den ersten Stunden, früher Progression und vermeidbaren Fehlern."
+  },
+  "characters": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Charaktere",
+    "overviewDescription": "Durchsuche Heroes Vow: Three Kingdoms Charakter-Guides zu Guan Yu, Lu Bu, Zhao Yun und dem weiteren Kader, mit Rollen, Fraktionen und Team-Eignung."
+  },
+  "combat": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Kampf & Teams",
+    "overviewDescription": "Lerne das Kampfsystem, die besten Teams, Einheiten und Tier-Listen-Rankings von Heroes Vow: Three Kingdoms für rundenbasierten Truppenkampf kennen."
+  },
+  "mechanics": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Mechaniken",
+    "overviewDescription": "Verstehe die Mechaniken von Heroes Vow: Three Kingdoms, darunter Fraktionen, Beziehungen, Romanzen und die Sandbox-Strategieebene."
+  },
+  "controls": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Steuerung",
+    "overviewDescription": "Vollständige Heroes Vow: Three Kingdoms Steuerung für PC und Tastatur sowie Hinweise zum Anpassen deiner Einstellungen."
+  },
+  "progression": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Fortschritt",
+    "overviewDescription": "Heroes Vow: Three Kingdoms Fortschritts-Guides zu Leveln, Skills, Waffen, Rekrutierung, Erfolgen und Charakter-Builds."
+  },
+  "codes": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms Codes",
+    "overviewDescription": "Alle Heroes Vow Three Kingdoms Codes und ihre Einlösung, aktuell gehalten für Belohnungen und Gratis-Inhalte."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Heroes Vow Three Kingdoms Wiki",
+    "about": "Das Heroes Vow Three Kingdoms Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Charakteren, Fraktionen, Strategie, Kämpfen, Erfolgen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Heroes Vow Three Kingdoms Wiki. Nicht mit Free Wing, NPC Entertainment oder Steam verbunden.",
+    "description": "Three-Kingdoms-Sandbox-Strategie-RPG mit rundenbasiertem Kampf, Fraktionssystemen und tiefer Charakterentwicklung.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Build-Planer",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Charakter-Guides",
+    "bossGuides": "Kampf-Guides",
+    "buildGuide": "Fortschritts-Guides",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

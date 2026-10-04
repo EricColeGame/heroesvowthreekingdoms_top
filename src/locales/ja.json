@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Heroes Vow Three Kingdoms Wiki",
+    "shortName": "Heroes Vow Three Kingdoms",
+    "tagline": "完全ガイド・武将・戦略・ティアリスト",
+    "description": "『Heroes' Vow: Three Kingdoms』の究極ガイド。武将ガイド、勢力戦略、ターン制バトル、実績、育成のコツまで、三国志サンドボックスRPGを遊び尽くすための情報を網羅しています。",
+    "legalNotice": "非公式ファンウィキです。プレイヤーがプレイヤーのために作成しています。Free Wing、NPC Entertainment、Steam とは提携していません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "characters": "武将",
+    "combat": "戦闘",
+    "mechanics": "システム",
+    "controls": "操作方法",
+    "progression": "育成",
+    "codes": "コード"
+  },
+  "home": {
+    "meta": {
+      "title": "Heroes Vow Three Kingdoms Wiki - ガイド・武将・戦略",
+      "description": "武将ガイド、戦略のコツ、勢力の詳細、バトルシステム、ゲームプレイ情報をまとめた Heroes Vow Three Kingdoms Wiki。三国志RPGを極めましょう。"
+    },
+    "hero": {
+      "eyebrow": "三国志サンドボックス戦略RPG",
+      "title": "Heroes Vow Three Kingdoms Wiki",
+      "description": "武将、戦略、ガイド、勢力、バトル、システムなど、三国志の時代に自分だけの伝説を築くために必要なすべてを網羅した Heroes Vow Three Kingdoms の完全ウィキです。",
+      "stats": [
+        "ユーザーレビュー 7K+",
+        "実績 37",
+        "有効コード 0",
+        "毎週更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "武将ティアリスト",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "ガイドをすべて見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Heroes Vow Three Kingdoms の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Heroes Vow Three Kingdoms の序盤の流れを学びましょう。勢力を選び、キャンペーンを進め、貴重な資源を使う前に信頼できる主力を1体育てます。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベル上げ",
+          "description": "キャンペーンステージ、デイリークエスト、スタミナの使い方で、将軍と指揮官ランクを効率よく上げ、最も多くの経験値を稼ぎましょう。"
+        },
+        {
+          "number": "3",
+          "title": "資源集め",
+          "description": "毎日のルーティン、ギルドの支援、報酬効率の良いモードで、金貨・スタミナ・強化素材を絶やさず確保しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "コードと報酬",
+          "description": "使える Heroes Vow Three Kingdoms のコードを見つけ、交換方法を学び、報酬が期限切れになる前に交換エラーを解決しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題のページ",
+      "quickLinks": [
+        "初心者ガイド",
+        "ティアリスト",
+        "勢力ガイド",
+        "有効コード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "勢力選びから資源管理まで、最初の1週間に必要なすべて。",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効コード",
+          "description": "報酬と交換手順が付いた、使える Heroes Vow Three Kingdoms のコード。",
+          "href": "/codes/heroes-vow-three-kingdoms-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "ティアリスト",
+          "description": "どの将軍が主力になり、どれが落ちていくか、最高の装備をどこに投資すべきか。",
+          "href": "/combat/heroes-vow-three-kingdoms-tier-list"
+        },
+        {
+          "badge": "人気",
+          "title": "勢力ガイド",
+          "description": "魏・蜀・呉・群の絆、ショップ、プレイスタイルを並べて比較。",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions"
+        },
+        {
+          "badge": "人気",
+          "title": "武将ガイド",
+          "description": "すべての陣形に対応するロスターの役割、勢力のリーダー、チーム編成のアドバイス。",
+          "href": "/characters/heroes-vow-three-kingdoms-characters"
+        },
+        {
+          "badge": "新着",
+          "title": "武器と装備",
+          "description": "武器のレアリティ、精錬、ダメージ曲線を押し上げる強化の優先順位。",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons"
+        },
+        {
+          "badge": "新着",
+          "title": "戦闘ガイド",
+          "description": "PvE と PvP の行動順、兵種相性、陣形戦術。",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "実績",
+          "description": "37 個の実績すべてと、その先にある報酬のコンプリートロードマップ。",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements"
+        },
+        {
+          "badge": "人気",
+          "title": "招聘ガイド",
+          "description": "ガチャのタイミング、通貨の優先順位、無課金向けの召喚プラン。",
+          "href": "/progression/heroes-vow-three-kingdoms-recruitment"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Heroes Vow Three Kingdoms とは？",
+      "paragraphs": [
+        "Heroes Vow Three Kingdoms は、開発元 Free Wing による三国志時代のサンドボックス戦略RPGです。後漢末期の時代に君主・将軍・自由な旅人として足を踏み入れ、招聘、外交、交易、婚姻、そして古代中国の生きたマップを舞台にしたターン制バトルを通じて、自分だけの物語を築いていきます。",
+        "戦いは始まる前に決まります。勢力の相乗効果、陣形、兵種相性、装備は、純粋な戦力と同じくらい重要であり、武将の絆とスキル投資がキャンペーン、ギルドコンテンツ、PvP を通じてロスターを支えます。このウィキは、Heroes Vow Three Kingdoms であなたのアカウントを前進させ続けるガイド、ティアリスト、データ表をまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Free Wing"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "Free Wing / NPC Entertainment"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サンドボックス戦略RPG"
+        },
+        {
+          "label": "勢力",
+          "value": "魏・蜀・呉・群"
+        },
+        {
+          "label": "実績",
+          "value": "37"
+        },
+        {
+          "label": "Steamレビュー",
+          "value": "7K+"
+        }
+      ],
+      "cta": "ガイドをすべて見る"
+    },
+    "explore": {
+      "title": "Heroes Vow Three Kingdoms Wiki を探索",
+      "description": "初心者、ビルド、武将、戦闘、勢力、装備、アップデート、実績のための Heroes Vow Three Kingdoms ガイドを一か所で閲覧できます。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Heroes Vow Three Kingdoms 初心者ガイド",
+          "description": "キャラクター作成、勢力選び、序盤の育成、資源管理、新米指揮官がつまずくミスまで、序盤の流れを初心者向けに解説します。",
+          "href": "/guide/heroes-vow-three-kingdoms-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "キャンペーンを進めて進行が止まるまで遊び、デイリーモードを解放しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "信頼できる主力を1体育て、最高の装備をその将軍に集中させましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "衝動買いを避け、限定ガチャのためにプレミアム通貨を温存しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "アクティブなギルドに参加して、支援報酬とギルドボスを毎日積み上げましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "毎日のチェックリストを欠かさずこなし、一括消費ではなく安定した収入を得ましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Heroes Vow Three Kingdoms ビルド",
+          "description": "すべての役割に向けたキャラクタービルド計画。ステータス優先度、装備セット、スキル順、そして戦士・君主・支援武将の陣形枠を扱います。",
+          "href": "/progression/heroes-vow-three-kingdoms-character-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "決闘者",
+              "detail": "クリティカルと攻撃を積み上げ、重要目標を消し飛ばす前線アタッカー。"
+            },
+            {
+              "label": "先鋒",
+              "detail": "防御と体力を中心に組み、敵の開幕の攻撃を受け止めるタンク。"
+            },
+            {
+              "label": "支援",
+              "detail": "長期のボス戦で部隊を生かし続けるヒーラーとバッファー。"
+            },
+            {
+              "label": "軍師",
+              "detail": "主力のキルを演出する、操作とデバフの専門家。"
+            },
+            {
+              "label": "弓術士",
+              "detail": "武器のレアリティと位置取りで伸びる後列の遠距離アタッカー。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Heroes Vow Three Kingdoms 武将ガイド",
+          "description": "ゲームに登場する将軍たちの勢力、役割、投資価値をまとめたロスターガイド。誰に資源を注ぐべきか判断するティアの枠組み付き。",
+          "href": "/characters/heroes-vow-three-kingdoms-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "役割内で最高峰。最優先で育成し、最高の装備を注ぎましょう。"
+            },
+            {
+              "label": "A",
+              "detail": "主力が安定し、編成がかみ合えば非常に強力。"
+            },
+            {
+              "label": "B",
+              "detail": "序盤は強いが、大きな投資なしでは落ちていきます。"
+            },
+            {
+              "label": "C",
+              "detail": "育成しやすい選択肢に劣る、ニッチな採用枠。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Heroes Vow Three Kingdoms 戦闘ガイド",
+          "description": "行動順、兵種相性、陣形、勢力の相乗効果、そして接戦を勝ちに変える PvP の習慣を扱うターン制バトル戦術。",
+          "href": "/combat/heroes-vow-three-kingdoms-combat-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "陣形を確定する前に敵の編成を偵察しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "タンクを前衛、アタッカーを中衛、支援を後衛に配置しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "敵の最強ユニットに兵種相性を合わせましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "敵の前線を崩す瞬間までアルティメットを温存しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "1つの陣形で押し通さず、PvE 用の編成を PvP 用に組み直しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Heroes Vow Three Kingdoms 勢力ガイド",
+          "description": "魏・蜀・呉・群を比較し、絆ボーナス、ショップ、プレイスタイルを解説。バフをきちんと重ねられるロスターの選び方を学びましょう。",
+          "href": "/mechanics/heroes-vow-three-kingdoms-factions",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "魏",
+              "detail": "曹操の規律ある中核。操作と効率的なバーストダメージを軸にしています。"
+            },
+            {
+              "label": "蜀",
+              "detail": "劉備のバランス型ロスター。高い耐久力と信頼できる前衛が強み。"
+            },
+            {
+              "label": "呉",
+              "detail": "孫権の俊敏な勢力。速度、燃焼、遠距離の圧力を得意とします。"
+            },
+            {
+              "label": "群",
+              "detail": "どの陣形にも組み込める柔軟な採用枠を持つ、無所属の群雄。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Heroes Vow Three Kingdoms アイテムガイド",
+          "description": "武器、装備セット、精錬、強化素材のリファレンスと、主力将軍を装備で支え続ける周回ルート。",
+          "href": "/progression/heroes-vow-three-kingdoms-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "武器",
+              "detail": "中核となるダメージ枠。レアリティが上限を決め、パッシブが性能を変えます。"
+            },
+            {
+              "label": "装備セット",
+              "detail": "将軍の役割と勢力の相乗効果を高めるセットボーナス。"
+            },
+            {
+              "label": "精錬",
+              "detail": "ステータスを高め、より強力なパッシブ効果を解放する重複装備。"
+            },
+            {
+              "label": "周回",
+              "detail": "必要な強化素材を供給する毎日のステージとイベント。"
+            },
+            {
+              "label": "優先度",
+              "detail": "資源を分散させる前に、主力の武器を強化しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Heroes Vow Three Kingdoms アップデート",
+          "description": "バランス調整、新武将の追加、コミュニティの反応を追い、パッチ後もビルドとティアの選択を最新に保ちましょう。",
+          "href": "/guide/heroes-vow-three-kingdoms-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パッチ",
+              "detail": "どの役割と勢力が最も活躍するかを変えるバランス調整。"
+            },
+            {
+              "label": "新武将",
+              "detail": "メタとガチャの価値を再定義しうる新しい将軍たち。"
+            },
+            {
+              "label": "メタ",
+              "detail": "何が伸び、何が落ちているかについてのコミュニティの総意。"
+            },
+            {
+              "label": "イベント",
+              "detail": "資源の使い道を計画する価値のある期間限定モードと報酬。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Heroes Vow Three Kingdoms 実績ガイド",
+          "description": "37 個の実績を網羅したコンプリートロードマップ。カテゴリ、毎日のルーティン、そして道中でロスターを支えるマイルストーンを解説します。",
+          "href": "/progression/heroes-vow-three-kingdoms-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "モードを解放し、着実な成長を報いるキャンペーンのマイルストーン。"
+            },
+            {
+              "label": "ロスター",
+              "detail": "より幅広いチーム編成を促す収集と星上げの目標。"
+            },
+            {
+              "label": "戦闘",
+              "detail": "陣形、相性、ボス討伐を試すバトルチャレンジ。"
+            },
+            {
+              "label": "デイリー",
+              "detail": "長期的に強化を静かに支える反復可能なタスク。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Heroes Vow Three Kingdoms に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Heroes Vow Three Kingdoms とは何ですか？",
+          "answer": "Heroes Vow Three Kingdoms は、開発元 Free Wing による三国志時代のサンドボックス戦略RPGです。君主・将軍・自由な旅人としてプレイし、国家づくり、招聘、外交、交易、婚姻、ターン制バトルを通じて自分だけの物語を形作ります。"
+        },
+        {
+          "question": "初心者は Heroes Vow Three Kingdoms でどの勢力を選ぶべきですか？",
+          "answer": "Heroes Vow Three Kingdoms に唯一の最強勢力はありません。魏は操作とバーストダメージ、蜀は耐久と前衛、呉は速度と遠距離の圧力、群は柔軟な採用枠が強みです。自分の戦い方に合うタイプを選び、絆ボーナスを共有できる部隊を組みましょう。"
+        },
+        {
+          "question": "Heroes Vow Three Kingdoms で無料の報酬を受け取るには？",
+          "answer": "Heroes Vow Three Kingdoms のコードは、無料通貨・召喚スクロール・強化素材を得る最速の手段です。期限切れになる前にゲーム内で交換し、コードページを定期的に確認しましょう。ほとんどのギフトコードはローンチ記念、祝日、配信に関連しています。"
+        },
+        {
+          "question": "Heroes Vow Three Kingdoms にティアリストはありますか？",
+          "answer": "はい。Heroes Vow Three Kingdoms のティアリストは、役割適性、伸びしろ、投資効率、勢力の相乗効果によって将軍を S から C までランク付けします。バランス調整や新武将の追加でメタは変わるため、あくまで一時点の目安として扱いましょう。"
+        },
+        {
+          "question": "Heroes Vow Three Kingdoms はどのプラットフォームで遊べますか？",
+          "answer": "Heroes Vow Three Kingdoms は Steam を通じて PC で配信されており、37 個の実績を備え、定期的なバランス調整が行われています。"
+        },
+        {
+          "question": "Heroes Vow Three Kingdoms のガイドはどこにありますか？",
+          "answer": "この Heroes Vow Three Kingdoms ウィキでは、初心者ガイド、キャラクタービルド、戦闘戦術、勢力解説、装備リファレンス、実績ロードマップを一か所にまとめています。サイトを離れずに、最初のキャンペーンステージから終盤の PvP まで進めます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Heroes Vow Three Kingdoms を極める準備はできましたか？",
+      "description": "三国志での第一歩から終盤のバトルまで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms 初心者ガイド",
+    "overviewDescription": "序盤の数時間、初期の育成、避けるべきミスを扱う Heroes Vow: Three Kingdoms 初心者ガイドで、好スタートを切りましょう。"
+  },
+  "characters": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms 武将",
+    "overviewDescription": "関羽、呂布、趙雲をはじめとする武将たちの役割、勢力、編成適性を扱う Heroes Vow: Three Kingdoms 武将ガイドを閲覧しましょう。"
+  },
+  "combat": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms 戦闘と編成",
+    "overviewDescription": "ターン制の部隊戦闘に向けた Heroes Vow: Three Kingdoms のバトルシステム、最強編成、ユニット、ティアリストを学びましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms システム",
+    "overviewDescription": "勢力、関係、恋愛、サンドボックス戦略レイヤーなど、Heroes Vow: Three Kingdoms のシステムを理解しましょう。"
+  },
+  "controls": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms 操作方法",
+    "overviewDescription": "PC とキーボードの Heroes Vow: Three Kingdoms 操作方法と、設定を調整するためのガイダンス。"
+  },
+  "progression": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms 育成",
+    "overviewDescription": "レベル上げ、スキル、武器、招聘、実績、キャラクタービルドを扱う Heroes Vow: Three Kingdoms 育成ガイド。"
+  },
+  "codes": {
+    "overviewTitle": "Heroes Vow: Three Kingdoms コード",
+    "overviewDescription": "Heroes Vow: Three Kingdoms のすべてのコードと交換方法。報酬と無料特典のために最新の状態に保っています。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steam でプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Heroes Vow Three Kingdoms Wiki",
+    "about": "Heroes Vow Three Kingdoms Wiki は、武将、勢力、戦略、バトル、実績、そして新規・ベテランのプレイヤーに必要なゲーム知識を扱う、ファン制作の独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Heroes Vow Three Kingdoms Wiki. Free Wing、NPC Entertainment、Steam とは提携していません。",
+    "description": "ターン制バトル、勢力システム、奥深いキャラクター育成を備えた三国志サンドボックス戦略RPG。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "ビルドプランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "武将ガイド",
+    "bossGuides": "戦闘ガイド",
+    "buildGuide": "育成ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
