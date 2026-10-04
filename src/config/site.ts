@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Heroes Vow Three Kingdoms Wiki",
+  shortName: "Heroes Vow Three Kingdoms",
+  logoText: "H",
+  tagline: "Complete Guides, Characters, Strategy & Tier Lists",
+  description: "Your ultimate guide to Heroes' Vow: Three Kingdoms! Explore character guides, faction strategies, turn-based combat systems, achievements, and progression tips for the Three Kingdoms sandbox RPG.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://heroesvowthreekingdoms.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://heroesvowthreekingdoms.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/3020510/Heroes_Vow_Three_Kingdoms/",
+  heroVideoId: "HW8aQaU_y54", // Heroes' Vow: Three Kingdoms gameplay showcase
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/results?search_query=Heroes+Vow+Three+Kingdoms",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
